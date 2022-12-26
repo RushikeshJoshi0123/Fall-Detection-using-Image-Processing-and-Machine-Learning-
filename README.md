@@ -6,3 +6,10 @@
 
 •	For that purpose, proper fall detection system is needed to be developed which can detect the fall as soon as the fall event takes place.
 
+
+Technology used 
+
+1) Machine Learning 
+2) Image processing 
+
+
