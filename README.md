@@ -1,15 +1,13 @@
 # Fall-Detection-using-Image-Processing-and-Machine-Learning-
 
-•	Fall is an event which arrives unexpectedely at any time when a person is unaware of it. The fall can be caused due to many reasons and can put the lives on risk
+Falls are the major issues which occurs unexpectedly. This can also lead sometimes to death. Elderly persons are at the topmost risk and their life can also be in danger. There are lots of deaths caused due to the fall of elderly persons. This project aims to predict the fall as soon as it takes place.
 
-•	Falls are the major issues which occurs unexpectedly. This can also lead sometimes to death. Elderly persons are at the top most risk and their life can also be in   danger. There are lots of deaths caused due to the fall of elderly persons.
+Process
 
-•	For that purpose, proper fall detection system is needed to be developed which can detect the fall as soon as the fall event takes place.
+• Complete image pre-processing, which includes image background removal, edge detection, star feature extractor and brisk feature descriptor.
 
+• Used multiple machine learning algorithm like Random Forest, Decision Tree and KNN.
 
-Technology used 
+• Determining the accuracy of different machine learning algorithms.
 
-1) Machine Learning 
-2) Image processing 
-
-
+• Predicting the fall.
