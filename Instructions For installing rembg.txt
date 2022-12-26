@@ -1,0 +1,16 @@
+
+Open your Anaconda Prompt
+
+For Cpu Support 
+
+pip install rembg
+
+For Gpu Support 
+
+pip install rembg[gpu]
+
+
+If this Didn't Work for you 
+Try to install 
+
+pip install -U Pillow
