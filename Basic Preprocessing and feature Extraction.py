@@ -217,7 +217,7 @@ print("Fall")
 dat1= pd.read_csv('finalFolder1.csv',header=None)
 print(dat1)
 
-#---------Displaying features for  folder1-------------
+#---------Displaying features for  folder2-------------
 print("No fall")
 dat2= pd.read_csv('finalFolder2.csv',header=None)
 print(dat2)
